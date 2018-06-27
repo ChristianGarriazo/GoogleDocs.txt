@@ -1,10 +1,14 @@
 # GoogleDocs.txt
 Trabajo Práctico TIC´S
-Es una aplicacion de google que te permite crear y compartir el tranajo en linea te permite acceder al documento y editarlo en cualquier momento desde cualquier dispositivo entre los documentos que podes crear se ecuentran documentos de texto hojs de calculo presentaciones dibujos y formularios para encuentas 
-Docs es un sitio web donde los usuarios podían descubrir, subir y compartir documentos de Office en su página de perfil de Microsoft 
-de manera similar al de una red social corporativa
-Los tipos de archivos compatibles incluían documentos de Word, hojas de cálculo de Excel, presentaciones de PowerPoint.
-De igual forma, se podían mezclar videos de la aplicación Office Sway.
+
+Es una sitio web de google que te permite crear documentos,como una hoja  de texto , unas hojas de calculo, presentaciones , dibujos y formularios para encuentas.
+Estos documentos se pueden compartir, para cualquier usuario y este mismo podra hacerle modificaciones 
+Al documento creado se puede acceder, en cualquier momento y desde cualquier dispositivo, ya sea una tablet un celular o tu computadora 
+Podes compa
+Google Docs es compatible con archivos de office asi que podras exportarlos sin ningun tipo de problema 
+
+
+
 Adicionalmenre, los usuarios podían añadir archivos en formato de PDF y direcciones URL en su propia página.
 
 Ventajas:
@@ -25,11 +29,16 @@ Para eso vamos a la opcion de ''Insertar'', despues seleccionamos ''Imagen'' y p
 insertamos los terminos que deseamos.
 9.Posee un explorador web que resulta como ya que esta integrado a google docs
 10. posee tres modos de edicion 1 es editar 2 es sugerencia y visualizacion
+
 11 podemos comentar cualquier parte de del documento y añadir marcadores para poder navegar mas facil por el documento 
+
 12 se puede modificar los documentos offline
+
 13 posee dos opciones que resultan ser bastantes interesantes como la de explorar que consiste en bucar informacion en la web peor con el detalle de que no nos redirige a otra pestaña si no nos abre un espacion una ventana pequeña con toda la informacion inclusive fotos por si las llegaramos a ncesitar y tambien la de descripcion que es basicamente un diccionario , seleccionamos una palabra y nos muestra el significado 
-13 Historial de revision que consiste en poder restaurar versiones anteriores por cualquier error que cometamos
-14 no necesita un programa adicional para ver los documentos creados 
+
+14 Historial de revision que consiste en poder restaurar versiones anteriores por cualquier error que cometamos
+
+15no necesita un programa adicional para ver los documentos creados 
 +
 Desventajas:
 Existen ciertas limitaciones relativas a las capacidades que puede aceptar según el formato del documento:
