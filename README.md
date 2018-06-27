@@ -22,11 +22,17 @@ Ventajas:
 7. Se pueden exportar documentos de Office
 8. Docs es una herramienta parecida al Word, solo que esta se trbaja en la nube. 
 9. Posee una escritura por voz, lo que permite reconocer las frases que decimos y pasarlas a texto.
+
 10.Podemos insertar imagines sin derechos de autor
+
 11.Posee un explorador web, ya que esta integrado a google docs
+
 12.Podemos comentar cualquier parte de del documento y añadir marcadores para poder navegar mas facil por el documento 
+
 13.Historial de revision que consiste en poder restaurar versiones anteriores por cualquier error que cometamos
+
 14.No necesita un programa adicional para ver los documentos creados
+
 15.Gran facilidad para manejar las ediciones online en tiempo real, permitiendo que los editores pueden ver los cambios según los otros colaboradores las vayan realizando 
 
 
